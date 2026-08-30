@@ -1,0 +1,11 @@
+year,period,crime_type,cases,source
+2021,Jan-Jul,burglary,1362,Delhi Police data reported by PTI/ThePrint
+2021,Jan-Jul,snatching,4468,Delhi Police data reported by PTI/ThePrint
+2021,Jan-Jul,motor_vehicle_theft,18814,Delhi Police data reported by PTI/ThePrint
+2022,Jan-Jul,burglary,2893,Delhi Police data reported by PTI/ThePrint
+2022,Jan-Jul,snatching,5024,Delhi Police data reported by PTI/ThePrint
+2022,Jan-Jul,motor_vehicle_theft,19548,Delhi Police data reported by PTI/ThePrint
+2023,full_year,burglary_house_theft,28557,Delhi crime reporting cited by Times of India
+2023,full_year,snatching,7886,Delhi crime reporting cited by Times of India
+2024,full_year,burglary_house_theft,29011,Delhi crime reporting cited by Times of India
+2024,full_year,snatching,6493,Delhi crime reporting cited by Times of India
